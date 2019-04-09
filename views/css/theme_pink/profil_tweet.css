@@ -1,0 +1,128 @@
+html, body
+{
+	background-color: #FEEAFB;
+}
+
+body
+{
+	background-color: #FEEAFB;
+}
+
+.bar--count--tweet
+{
+	/*margin-top: 25%;*/
+	border-bottom: 2px solid rgba(0,0,0,0.2);
+}
+
+.blue--link
+{
+	color: #FF9BF0;
+}
+
+.blue--link:hover
+{
+	color: #FEEAFB;
+}
+
+.countbar a
+{
+	color: #FF9BF0;
+}
+
+.countbar a:hover
+{
+	color: #FEEAFB;
+	text-decoration: none;
+}
+
+.resume--text
+{
+	color: rgb(110, 128, 135);
+}
+
+.cover--picture
+{
+	width: 100%;
+	height: 600px;
+}
+
+.butt--edit
+{
+	border: 1px solid #FF9BF0;
+	border-radius: 20px;
+	background-color: white;
+	color: #FF9BF0;
+	transition: 0.3s;
+}
+
+.butt--edit:hover
+{
+	color: white;
+	background-color: #FF9BF0;
+}
+
+.butt--retweet
+{
+	color: #FF9BF0;
+	border: 1px solid #FF9BF0;
+}
+
+.butt--retweet:hover
+{
+	color: #FEEAFB;
+	background-color: red;
+}
+
+.arrow--down
+{
+	font-size: 25px;
+}
+
+.star--icone
+{
+	color: #ECCC00;
+}
+
+.butt-abonne
+{
+	background-color: #FF9BF0;
+	color: #E2DDC8;
+}
+
+.butt-abonne:hover
+{
+	color: #FEEAFB;
+}
+
+.choose--img img
+{
+	border-radius: 100px;
+	cursor: pointer;
+}
+
+.contain--profil--pic
+{
+	background-image: url("../../img/westcoastlogo.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	height: 600px;
+}
+
+.form--profil--pic
+{
+	position: relative;
+	top: 140px;
+}
+
+.butt--img--change
+{
+	color: white;
+	font-size: 20px;
+	transition: 0.3s;
+}
+
+.butt--img--change:hover
+{
+	color: rgba(0,0,0,0.2);
+	cursor: pointer;
+}

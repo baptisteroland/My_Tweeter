@@ -1,0 +1,80 @@
+html, body
+{
+	background-color: #FEEAFB;
+}
+
+.body--color
+{
+	background-color: #FEEAFB;
+}
+
+header
+{
+	background-color: white;
+}
+
+.butt--connect
+{
+	border-radius: 20px;
+	border: none;
+	background-color: #FF9BF0;
+	color: white;
+	transition: 0.3s;
+}
+
+.butt--connect:hover
+{
+	background-color: white;
+	color: #FF9BF0;
+	border: 1px solid #FF9BF0;
+}
+
+.contain--form--connect
+{
+	background-color: white;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+
+.link--insc
+{
+	font-size: 15px;
+}
+
+li a
+{
+	color: #FF9BF0;
+}
+
+li a:hover
+{
+	color: #FF9BF0;
+	text-decoration: none;
+}
+
+hr
+{
+	background-color: rgba(0,0,0, 0.4);
+}
+
+.end--form
+{
+	color: rgb(106, 127, 172);
+}
+
+.end--form a 
+{
+	color: #FF9BF0;
+	transition: 0.3s;
+}
+
+.end--form a:hover	 
+{
+	color: #FEEAFB;
+}
+
+.logo--site
+{
+	font-size: 25px;
+}

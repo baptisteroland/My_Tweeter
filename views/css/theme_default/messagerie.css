@@ -1,0 +1,95 @@
+body, html
+{
+	background-color: rgb(228, 236, 239);
+	height: 100%;
+}
+
+.body--color
+{
+	background-color: rgb(228, 236, 239);
+}
+
+.contain--message
+{
+	transition: 0.2s;
+}
+
+.contain--message:hover
+{
+	background: rgb(0,0,0, 0.1);
+}
+
+.contain--all--messagerie
+{
+	border: 1px solid rgb(0,0,0,0.4);
+	background-color: white;
+	margin-top: 5%;
+	border-radius: 10px;
+	height: 800px;
+	overflow: hidden;
+}
+
+.contain--all--msgpv
+{
+	border: 1px solid rgb(228, 236, 239);
+	height: 100%;
+	overflow: hidden;
+	overflow: scroll;
+}
+
+.button--newmsg
+{
+	border-radius: 20px;
+	border: 1px solid rgb(0, 166, 236);
+	color: rgb(0, 166, 236);
+	background-color: white;
+	transition: 0.3s;
+}
+
+.button--newmsg:hover
+{
+	border: 1px solid rgb(0, 166, 236);
+	color: white;
+	background-color: rgb(0, 166, 236);	
+}
+
+.button--newmsg:active
+{
+	background-color: rgb(0, 115, 184);	
+}
+
+div hr
+{
+	background: rgb(228, 236, 239);
+}
+
+.img--user
+{
+	position: relative;
+	top: 10px;
+}
+
+.color--blue
+{
+	color: rgb(0, 166, 236);
+}
+
+.color--black
+{
+	color: black;
+}
+
+.select_sendEnvoi
+{
+	border-radius: 10px;
+	border: 1px solid rgb(0,0,0,0.4);
+	background-color: white;
+}
+
+.link--sendEnv:hover 
+{
+	background-color: rgba(100,100,100,0.1);
+	border-radius: 10px;
+	color: rgb(0, 166, 236);
+}
+

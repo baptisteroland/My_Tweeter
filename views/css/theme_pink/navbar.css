@@ -1,0 +1,69 @@
+
+.color--link
+{
+	color: #FF9BF0;
+}
+
+.color--link:hover
+{
+	text-decoration: none;
+	color: #FEEAFB;
+}
+
+.input--search
+{
+	border-radius: 20px;
+	border: 1px solid #FF9BF0);
+}
+
+.butt--search
+{
+	border-radius: 20px;
+	color: white;
+	background-color: #FF9BF0;
+}
+
+.butt--search:hover
+{
+	background: #FEEAFB;
+}
+
+.butt--search:active
+{
+	background-color: white;
+	color: #FF9BF0;
+}
+
+hr
+{
+	background-color: rgba(0,0,0,0.4);
+}
+
+.menu--deroulant
+{
+	margin-top: 70px;
+	margin-right: 15%;
+}
+
+.icon--wac
+{
+	font-size: 28px;
+}
+
+.color--blue a
+{
+	color: #FF9BF0;
+	text-transform: none;
+	transition: 0.3s;
+}
+
+.color--blue a:hover
+{
+	text-decoration: none;
+	color: #FEEAFB;
+}
+
+.pic--navbar--page img
+{
+	border-radius: 100px;
+}

@@ -1,0 +1,76 @@
+html
+{
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+body
+{
+	height: 100%;
+	/*background: url('img/twitter.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;*/
+}
+
+.button--connect
+{
+	border-radius: 20px;
+	border: 1px solid #00AFE2;
+	background-color: white;
+	color: #00AFE2;
+}
+
+.button--connect:hover
+{
+	background-color: rgba(0,0,0, 0.1);
+}
+
+.containe--form--all
+{
+	/*width: 50%;*/
+	/*margin-left: 50%;*/
+	height: 95%;
+	float: right;
+}
+
+.sign--butt
+{
+	border-radius: 20px;
+	background-color: #00AFE2;
+	color: white;
+}
+
+.log--butt
+{
+	border-radius: 20px;
+	border: 1px solid #00AFE2;
+	background-color: white;
+	color: #00AFE2;
+}
+
+.contain--carre--log
+{
+	margin-top: 200px;
+}
+
+.contain--pict--left
+{
+	width: 50%;
+	background: url('../../img/twitter.png') no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 95%;
+}
+
+.contain--test
+{
+	position: relative;
+	top: 400px;
+}
+
+ul li 
+{
+	display: inline;
+}
+

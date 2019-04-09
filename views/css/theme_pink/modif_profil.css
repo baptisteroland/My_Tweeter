@@ -1,0 +1,120 @@
+html, body
+{
+	background-color: #FEEAFB;
+}
+
+.body--color
+{
+	background-color: #FEEAFB;
+}
+
+.contain--actu
+{
+	display: flex;
+	margin-top: 65px;
+}
+
+.butt--modif
+{
+	border-radius: 20px;
+	border: none;
+	padding: 5px 12px;
+	border-radius: 20px;
+	border: 1px solid #FF9BF0;
+	background-color: white;
+	color: #FF9BF0;
+	transition: 0.3s;
+}
+
+.butt--modif:hover
+{
+	background: #FF9BF0;
+	color: white;
+}
+
+.butt--modif:active
+{	
+	background: #FEEAFB;
+}
+
+.contain--modif
+{
+	border: 1px solid rgba(0,0,0,0.2);
+	border-radius: 5px;
+	background-color: white;
+}
+
+.contain--profile
+{
+	background-color: #FF9BF0;
+	border: 1px solid rgba(0,0,0,0.2);
+}
+
+.div--profile1
+{
+	border-radius: 3px;
+	height: 100%;
+}
+
+.div--profile2
+{
+	height: 100%;
+}
+
+.contain--link--left
+{
+	border: 1px solid #FF9BF0;
+	border-radius: 2px;
+	background-color: white;
+}
+
+.contain--link--left a
+{
+	color: #FF9BF0;
+}
+
+.contain--link--left a:hover
+{
+	text-decoration: none;
+	color: #FF9BF0;
+}
+
+.link--profil a
+{
+	color: #FF9BF0;
+}
+
+.link--profil a:hover
+{
+	text-decoration: none;
+	color: #FEEAFB;
+}
+
+.input--color
+{
+	width: 70px;
+	height: 50px;
+	border-radius: 10px;
+}
+
+.sub--color
+{
+	color: #FF9BF0;
+	background-color: white;
+	border: 1px solid #FF9BF0;
+	border-radius: 20px;
+	transition: 0.3s;
+}
+
+.sub--color:hover
+{
+	background-color: #FF9BF0;
+	color: white;
+}
+
+#select
+{
+	border-radius: 5px;
+	color: white;
+	background-color: #FF9BF0;
+}

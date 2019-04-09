@@ -1,0 +1,191 @@
+.contain--modif
+{
+	height: 100%;
+}
+
+.butt--tweet
+{
+	background-color: white;
+	color: rgb(0, 166, 236);
+	border: none;
+	transition: 0.3s;
+}
+
+.butt--tweet:hover
+{
+	color: red;
+	text-decoration: underline;
+}
+
+.butt--tweet:active
+{
+	border: 1px solid rgb(0, 166, 236);
+}
+
+.contain--count--tweet
+{
+	height: 100%;
+	border-radius: 5px;
+}
+
+.contain--link--count--div
+{
+	border: 1px solid rgba(110, 128, 135, 0.4);
+	background-color: white;
+}
+
+.contain--link--count--div a
+{
+	color: rgb(110, 128, 135);	
+}
+
+.contain--link--count--div a:hover
+{
+	text-decoration: none;
+	color: rgb(0, 115, 184);
+}
+
+.contain--all--count
+{
+	height: 100%;
+}
+
+i	
+{
+	color: rgb(0, 166, 236);
+	transition: 0.3s;
+}
+
+i:hover
+{
+	color: red;	
+}
+
+.pseudo--link
+{
+	color: rgb(110, 128, 135);
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+.pseudo--link:hover
+{
+	text-decoration: none;
+}
+
+.user--pseudo
+{
+	color: rgb(0, 166, 236);
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+.user--pseudo:hover
+{
+	text-decoration: none;
+}
+
+.contain--tweet
+{
+	transition: 0.5s;
+}
+
+.contain--tweet:hover
+{
+	background-color: rgba(110, 128, 135, 0.1);
+}
+
+.number
+{
+	color: red;
+}
+
+.div--profile2 img
+{
+	position: relative;
+	top: 40px;
+	border-radius: 100px;
+}
+
+.pic--center--page img
+{
+	border-radius: 100px;
+}
+
+.user--circle
+{
+	font-size: 70px;
+	color: rgba(110, 128, 135, 0.6);
+}
+
+.user--circle:hover
+{
+	color: rgb(0, 166, 236);
+}
+
+.warning--icone
+{
+	font-size: 60px;
+}
+
+.icon--top--comment
+{
+	font-size: 100px;
+	color: rgba(0,0,0,0.1);
+}
+
+.choose--img
+{
+	color: rgb(0, 166, 236);
+}
+
+.choose--img:hover
+{
+	color: rgba(110, 128, 135, 0.6);
+}
+
+button
+{
+	color: rgb(0, 166, 236);
+	border: none;
+	background-color: transparent;
+}
+
+.sendrep
+{
+	font-size: 25px;
+}
+
+.content--rep
+{
+	color: rgb(110, 128, 135);
+}
+
+.answer
+{
+	background-color: rgba(110, 128, 135, 0.1);
+	border-radius: 50px;
+	height: 100%;
+}
+
+.day--comm
+{
+	font-size: 13px;
+	color: rgb(110, 128, 135); 
+}
+
+.modif--visu--input
+{
+	transition: 0.3s;	
+	color: rgb(0, 166, 236);
+}
+
+.modif--visu--input:hover
+{
+	color: rgb(110, 128, 135);
+}
+
+.block--string
+{
+	overflow-wrap: break-word;
+}

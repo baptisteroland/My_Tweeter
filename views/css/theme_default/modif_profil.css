@@ -1,0 +1,119 @@
+html, body
+{
+	background-color: rgb(228, 236, 239);
+}
+
+.body--color
+{
+	background-color: rgb(228, 236, 239);
+}
+
+.contain--actu
+{
+	display: flex;
+	margin-top: 65px;
+}
+
+.butt--modif
+{
+	border-radius: 20px;
+	border: none;
+	padding: 5px 12px;
+	border-radius: 20px;
+	border: 1px solid rgb(0, 166, 236);
+	background-color: white;
+	color: rgb(0, 166, 236);
+}
+
+.butt--modif:hover
+{
+	background: rgb(0, 166, 236);
+	color: white;
+}
+
+.butt--modif:active
+{	
+	background: rgb(0, 115, 184);
+}
+
+.contain--modif
+{
+	border: 1px solid rgba(0,0,0,0.2);
+	border-radius: 5px;
+	background-color: white;
+}
+
+.contain--profile
+{
+	background-color: #C2D9DF;
+	border: 1px solid rgba(0,0,0,0.2);
+}
+
+.div--profile1
+{
+	border-radius: 3px;
+	height: 100%;
+}
+
+.div--profile2
+{
+	height: 100%;
+}
+
+.contain--link--left
+{
+	border: 1px solid rgba(0,0,0,0.2);
+	border-radius: 2px;
+	background-color: white;
+}
+
+.contain--link--left a
+{
+	color: rgb(110, 128, 135);
+}
+
+.contain--link--left a:hover
+{
+	text-decoration: none;
+	color: rgb(0, 166, 236);
+}
+
+.link--profil a
+{
+	color: rgb(110, 128, 135);
+}
+
+.link--profil a:hover
+{
+	text-decoration: none;
+	color: rgb(0, 166, 236);
+}
+
+.input--color
+{
+	width: 70px;
+	height: 50px;
+	border-radius: 10px;
+}
+
+.sub--color
+{
+	color: rgb(0, 166, 236);
+	background-color: white;
+	border: 1px solid rgb(0, 166, 236);
+	border-radius: 20px;
+	transition: 0.3s;
+}
+
+.sub--color:hover
+{
+	background-color: rgb(0, 166, 236);
+	color: white;
+} 
+
+#select
+{
+	border-radius: 5px;
+	color: white;
+	background-color: rgb(0, 166, 236);
+}

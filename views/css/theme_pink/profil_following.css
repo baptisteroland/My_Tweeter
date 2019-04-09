@@ -1,0 +1,30 @@
+.contain--following
+{
+	height: 100%;
+	border-radius: 5px;
+}
+
+.block--user
+{
+	border: 1px solid rgba(0,0,0,0.2);
+	border-radius: 5px;
+	/*box-shadow: 0 3px 12px;*/
+	height: 330px;
+}
+
+.pic--couv--user--block
+{
+	background: #FF9BF0;
+}
+
+.user--logo
+{
+	position: relative;
+	top: 40px;
+	border-radius: 100px;
+}
+
+.message--icon
+{
+	font-size: 25px;
+}

@@ -1,0 +1,124 @@
+	body, html
+{
+	background-color: rgb(228, 236, 239);
+}
+
+.body--color
+{
+	background-color: rgb(228, 236, 239);
+}
+
+.contain--message
+{
+	transition: 0.2s;
+}
+
+.contain--message:hover
+{
+	background: rgb(0,0,0, 0.1);
+}
+
+
+.contain--all--messagerie
+{
+	border: 2px solid rgb(0, 166, 236);
+	background-color: #fff;
+	margin-top: 10%;
+	border-radius: 10px;
+}
+
+.contain--all--msgpv
+{
+	border: 1px solid rgb(0,0,0,0.4);
+	overflow: hidden;
+	overflow: scroll;
+	height: 500px;
+	border-radius: 10px;
+	background-color: #E6EFF1;
+}
+
+.button--newmsg
+{
+	border-radius: 20px;
+	border: 1px solid rgb(0, 166, 236);
+	color: rgb(0, 166, 236);
+	background-color: white;
+	transition: 0.3s;
+}
+
+.button--newmsg:hover
+{
+	border: 1px solid rgb(0, 166, 236);
+	color: white;
+	background-color: rgb(0, 166, 236);	
+}
+
+.button--newmsg:active
+{
+	background-color: rgb(0, 115, 184);	
+}
+
+div hr
+{
+	background: rgb(228, 236, 239);
+}
+
+.sendmsg
+{
+	border: 1px solid rgb(0, 166, 236);
+	color: white;
+	background-color: rgb(0, 166, 236);
+	border-radius: 5px;
+	transition: 0.3s;
+}
+
+.sendmsg:hover
+{
+	border: 1px solid rgb(0, 166, 236);
+	color: rgb(0, 166, 236);
+	background-color: white;	
+}
+
+.sendmsg:active
+{
+	border: 1px solid rgb(0, 166, 236);
+	color: white;
+	background-color: rgb(0, 115, 184);
+}
+
+.input--dest
+{
+	border: 2px solid rgb(0, 166, 236);
+	margin:0;
+}
+
+.block--msg
+{
+	border-radius: 15px;
+	border: 1px solid rgba(0,0,0,0.3);
+	box-shadow: 0 0 10px;
+	background-color: rgb(0, 166, 236); 
+}
+
+.plane--send
+{
+	color: white;	
+}
+
+.bg--butt
+{
+	background-color: rgb(0, 166, 236);
+	color: white;
+}
+
+.bg--butt:hover
+{
+	color:rgb(0, 166, 236);
+	background-color: white;
+	border: 1px solid rgb(0, 166, 236);	
+}
+
+.bg--butt:hover .plane--send
+{
+	color: rgb(0, 166, 236);	
+}

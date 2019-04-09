@@ -1,0 +1,39 @@
+html, body
+{
+	height: 100%;
+}
+
+.contain--user
+{
+	margin-top: 2%;
+}
+
+.block--user
+{
+	border: 1px solid #FF9BF0;
+	border-radius: 5px;
+	/*box-shadow: 0 3px 12px;*/
+	height: 330px;
+}
+
+.pic--couv--user--block
+{
+	background: #FF9BF0;
+}
+
+.user--logo
+{
+	position: relative;
+	top: 40px;
+}
+
+.message--icon
+{
+	font-size: 25px;
+}
+
+.div--title
+{
+	margin-top: 5%;
+	color: #FF9BF0;
+}

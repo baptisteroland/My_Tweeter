@@ -1,0 +1,74 @@
+.color--link
+{
+	color: rgb(110, 128, 135);
+}
+
+.color--link:hover
+{
+	text-decoration: none;
+	color: rgb(0, 166, 236);
+}
+
+.input--search
+{
+	border-radius: 20px;
+	border: 1px solid rgb(0, 166, 236);
+}
+
+.butt--search
+{
+	border-radius: 20px;
+	color: white;
+	background-color: rgb(0, 166, 236);
+}
+
+.butt--search:hover
+{
+	background: rgb(0, 115, 184);
+}
+
+.butt--search:active
+{
+	background-color: white;
+	color: rgb(0, 166, 236);
+}
+
+hr
+{
+	background-color: rgba(0,0,0,0.4);
+}
+
+.menu--deroulant
+{
+	margin-top: 70px;
+	margin-right: 15%;
+	/*background-color: red;*/
+}
+
+.icon--wac
+{
+	font-size: 28px;
+}
+
+.color--blue a
+{
+	color: rgb(0, 166, 236);
+	text-transform: none;
+	transition: 0.3s;
+}
+
+.color--blue a:hover
+{
+	text-decoration: none;
+	color: rgb(0, 115, 184);
+}
+
+.color--deroulant
+{
+	background-color: #F2F2F2;
+}
+
+.pic--navbar--page img
+{
+	border-radius: 100px;
+}

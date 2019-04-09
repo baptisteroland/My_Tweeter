@@ -1,0 +1,72 @@
+bordeau : #871B00
+noir : #2A3540
+bg : #E2DDC8
+
+.color--link
+{
+	color: #2A3540;
+}
+
+.color--link:hover
+{
+	text-decoration: none;
+	color: #871B00;
+}
+
+.input--search
+{
+	border-radius: 20px;
+	border: 1px solid #2A3540);
+}
+
+.butt--search
+{
+	border-radius: 20px;
+	color: white;
+	background-color: #2A3540;
+}
+
+.butt--search:hover
+{
+	background: #871B00;
+}
+
+.butt--search:active
+{
+	background-color: white;
+	color: #2A3540;
+}
+
+hr
+{
+	background-color: rgba(0,0,0,0.4);
+}
+
+.menu--deroulant
+{
+	margin-top: 70px;
+	margin-right: 15%;
+}
+
+.icon--wac
+{
+	font-size: 28px;
+}
+
+.color--blue a
+{
+	color: #2A3540;
+	text-transform: none;
+	transition: 0.3s;
+}
+
+.color--blue a:hover
+{
+	text-decoration: none;
+	color: #871B00;
+}
+
+.pic--navbar--page img
+{
+	border-radius: 100px;
+}

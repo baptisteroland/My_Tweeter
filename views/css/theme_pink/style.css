@@ -1,0 +1,70 @@
+html
+{
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+body
+{
+	height: 100%;
+}
+
+.button--connect
+{
+	border-radius: 20px;
+	border: 1px solid#FF9BF0;
+	background-color: white;
+	color: #FF9BF0;
+}
+
+.button--connect:hover
+{
+	background-color: rgba(0,0,0, 0.1);
+}
+
+.containe--form--all
+{ 
+	height: 95%;
+	float: right;
+}
+
+.sign--butt
+{
+	border-radius: 20px;
+	background-color: #FF9BF0;
+	color: white;
+}
+
+.log--butt
+{
+	border-radius: 20px;
+	border: 1px solid #FF9BF0;
+	background-color: white;
+	color: #FF9BF0;
+}
+
+.contain--carre--log
+{
+	margin-top: 200px;
+}
+
+.contain--pict--left
+{
+	width: 50%;
+	background: url('../../img/twitter-pink.png') no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 95%;
+}
+
+.contain--test
+{
+	position: relative;
+	top: 400px;
+}
+
+ul li 
+{
+	display: inline;
+}
+

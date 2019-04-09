@@ -1,0 +1,117 @@
+body, html
+{
+	background-color: #C7C3B4;
+	height: 100%;
+}
+
+.body--color
+{
+	background-color: #C7C3B4;
+}
+
+.contain--message
+{
+	background-color: #2A3540;
+	transition: 0.2s;
+}
+
+.contain--message a
+{
+	color: white;
+}
+.contain--message:hover
+{
+	background: white;
+}
+
+.contain--message:hover a
+{
+	color: #2A3540;
+	text-decoration: none;
+}
+
+.contain--message:hover .user--color
+{
+	color: #2A3540;
+}
+
+.contain--message:hover .date--color
+{
+	color: #2A3540;
+}
+
+.contain--all--messagerie
+{
+	border: 1px solid rgb(0,0,0,0.4);
+	background-color: #2A3540;
+	margin-top: 5%;
+	border-radius: 10px;
+	height: 800px;
+	overflow: hidden;
+	color: white;
+}
+
+.contain--all--msgpv
+{
+	border: 1px solid rgb(228, 236, 239);
+	height: 100%;
+	overflow: hidden;
+	overflow: scroll;
+	background-color: white;
+}
+
+.button--newmsg
+{
+	border-radius: 20px;
+	border: 1px solid #2A3540;
+	color: #2A3540;
+	background-color: white;
+	transition: 0.3s;
+}
+
+.button--newmsg:hover
+{
+	border: 1px solid #2A3540;
+	color: white;
+	background-color: #2A3540;	
+}
+
+.button--newmsg:active
+{
+	background-color: rgb(0, 115, 184);	
+}
+
+div hr
+{
+	background: white;
+}
+
+.img--user
+{
+	position: relative;
+	top: 10px;
+}
+
+.color--blue
+{
+	color: #871B00;
+}
+
+.user--color
+{
+	color: white;
+}
+
+.select_sendEnvoi
+{
+	border-radius: 10px;
+	border: 1px solid rgb(0,0,0,0.4);
+	background-color: white;
+}
+
+.link--sendEnv:hover 
+{
+	background-color: rgba(100,100,100,0.1);
+	border-radius: 10px;
+	color: #871B00;
+}
